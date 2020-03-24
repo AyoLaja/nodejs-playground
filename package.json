@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-playground",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayomide Onalaja <ayo.onalaja@gmail.com>",
+  "license": "ISC"
+}
